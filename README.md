@@ -1,6 +1,6 @@
 # ConceptMap
 
 For run :
-python main.py <input-text-file>
+python main.py \<input-text-file\>
 
 
